@@ -8,4 +8,5 @@ I will be Following the course lessons by Per Borgen at Scrimba. [CSS Grid Cours
 
    * I've created a grid of 2 columns and 3 rows and give it a little space (gap) between the rows and columns.
 
-   * Lesson-1 live version [click here](https://heero83.github.io/grids/)
+   * Lesson-1 live version [click here](https://heero83.github.io/grids/grids-lesson-1/index.html)
+)
