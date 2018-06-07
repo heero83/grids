@@ -4,7 +4,7 @@ I will be Following the course lessons by Per Borgen at Scrimba. [CSS Grid Cours
 
 ## **Lesson-1: Your first grid**.
 
-   * On this lesson I will be working on learning how to build my first grid using the **grid-template-columns** and **grid-template** properties. Also the **grid-gap** property is covered on this lesson.
+   * On this lesson I will be working on learning how to build my first grid using the **grid-template-columns** and **grid-template** properties. Also the **grid-gap** property had been covered on this lesson.
 
    * I've created a grid of 2 columns and 3 rows and give it a little space (gap) between the rows and columns.
 
