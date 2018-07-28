@@ -1,12 +1,24 @@
 # CSS grid lessons.
 
-I will be Following the course lessons by Per Borgen at Scrimba. [CSS Grid Course](https://scrimba.com/g/gR8PTE)
+I will follow the course lessons by Per Borgen at Scrimba. [CSS Grid Course](https://scrimba.com/g/gR8PTE)
 
 ## **Lesson-1: Your first grid**.
 
--   On this lesson I will be working on learning how to build my first grid using the **grid-template-columns** and **grid-template** properties. Also the **grid-gap** property had been covered on this lesson.
+-   In this lesson, I have worked on learning how to build my first grid using the **grid-template-columns** and **grid-template** properties. Also, I cover the **grid-gap** property in this lesson.
 
--   I've created a grid of 2 columns and 3 rows and give it a little space (gap) between the rows and columns.
+-   I've created a grid of **2 columns** and **3 rows** and give it a little space (gap) between the rows and columns.
 
--   Lesson-1 live version [click here](https://heero83.github.io/grids/grids-lesson-1/index.html)
-    )
+-   Lesson-1 live version [click here](https://heero83.github.io/grids/grids-lesson-1/index.html)
+   
+## **Lesson-2: Fraction units and repeat**.
+
+ -  In this lesson, it has covered how to use the fraction unit also I looked at the grid-template() shorthand.
+  Also covered the **repeat()** property.
+
+## **Lesson-3: Positioning Items** .
+
+-   In this lesson I did cover how to place item on a grid using **grid-column** and **grid-row** properties. Also covered the shorthand of both properties.
+
+## **Lesson-4: Template Areas**.
+
+- This lesson covers template areas. These allows us to create layout with CSS Grid. Properties covered: **grid-area**** and **grid-template-area**.
