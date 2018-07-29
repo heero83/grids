@@ -28,3 +28,27 @@ I will follow the course lessons by Per Borgen at Scrimba. [CSS Grid Course](htt
 - This lesson covers template areas. These allows us to create layout with CSS Grid. Properties covered: **grid-area**** and **grid-template-area**.
 
 -   Live version: [click here](https://heero83.github.io/grids/grids-lesson-4/index.html)
+
+## **Lesson-5: Auto-fit and minmax**.
+
+- This lesson covers the **autofit()** and **minmax()** functions to create responsive grids.  
+
+- Live version: [click here](https://heero83.github.io/grids/grids-lesson-5/index.html)
+
+## **Lesson-6: Implicit rows**.
+
+- This lesson covers **implicit rows/columns** which are not defined explicitly in the grid. This is useful when you are not sure about how many items the grid will contain.
+
+-  Live version: [click here](https://heero83.github.io/grids/grids-lesson-6/index.html)
+
+## **Lesson-7: An awesome image grid**.
+
+- In this lesson we are going to use all the knowledge we got up until now from previous lessons to create an image grid, fully responsive.
+
+-  Live version: [click here](https://heero83.github.io/grids/grids-lesson-7/index.html)
+
+## **Lesson-8: Named lines**.
+
+- This lesson covers named lines. These lines make easier to understand how items are placed, using names instead of number when you place your items.
+
+ Live version: [click here](https://heero83.github.io/grids/grids-lesson-8/index.html)
