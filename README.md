@@ -52,3 +52,27 @@ I will follow the course lessons by Per Borgen at Scrimba. [CSS Grid Course](htt
 - This lesson covers named lines. These lines make easier to understand how items are placed, using names instead of number when you place your items.
 
  Live version: [click here](https://heero83.github.io/grids/grids-lesson-8/index.html)
+
+## **Lesson-9: Justify-content and align-content**.
+
+- This lesson covers how to align and justify the content of a grid.
+
+- Live version: [click here](https://heero83.github.io/grids/grids-lesson-9/index.html)
+
+## **Lesson-10: Justify-items and align-items**.
+
+- This lesson covers the justify-items and align items which allow us to override its default behavior that stretches both in width and height.
+
+- Live version: [click here](https://heero83.github.io/grids/grids-lesson-10/index.html)
+
+## **Lesson-11: auto-fill vs auto-fit**.
+
+- In this lesson we learn the difference between auto-fill and auto-fit.
+
+- Live version: [click here](https://heero83.github.io/grids/grids-lesson-11/index.html)
+
+## **Lesson-12: Flexbox vs. Grid**.
+
+- This lesson covers the differences between flexbox and a grid. Also explains how to use both together.
+
+- Live version: [click here](https://heero83.github.io/grids/grids-lesson-12/index.html)
